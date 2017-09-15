@@ -6,7 +6,7 @@ NHKラジオ第一「文芸選評」録音スクリプト
 
 VLCメディアプレーヤーがインストールされていることが前提。
 
-nhkbungei.ps1 ファイルを開き、
+nhkbungei.ps1 ファイルをメモ帳などのテキストエディタで開き、
 
 ```
 $vlcexe = 'C:\Program Files\VideoLAN\VLC\vlc.exe'
